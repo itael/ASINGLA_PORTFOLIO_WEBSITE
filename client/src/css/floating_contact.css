@@ -1,0 +1,77 @@
+.float_con_2
+{
+    visibility: hidden !important;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    bottom: 28%;
+    right: -5% !important;
+}
+
+.float_con
+{
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    bottom: 28%;
+    right: -5% !important;
+    z-index: 1000;
+    animation: float_cont_anim 4s ease 0s infinite normal forwards, float_con_anim2 2s ease 0s 1 normal forwards;
+    visibility: visible !important;
+}
+
+.float_cont_img_size
+{
+    height: 90%;
+    width: 90%;
+    cursor: url("../imgs/contact_cursor.png"), auto !important;
+}
+
+@media only screen and (max-width: 600px)
+{
+    .float_cont_img_size
+    {
+        height: 65%;
+        width: 65%;
+    }
+}
+
+@media only screen and (max-width: 1050px)
+{
+    .float_con
+    {
+        right: -12% !important;
+    }
+}
+
+@media only screen and (max-width: 500px)
+{
+    .float_con
+    {
+        right: -18% !important;
+    }
+}
+
+@keyframes float_cont_anim {
+	0% {
+		transform: scale(1);
+	}
+
+	50% {
+		transform: scale(1.1);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes float_con_anim2 {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
