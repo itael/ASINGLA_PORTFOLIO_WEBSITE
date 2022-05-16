@@ -4,7 +4,7 @@ A personal portfolio website that provides information about what i do and my ot
  
  
  ### PREVIEW - 
- ## You can see a live preview of the Website on - [Anirudha Singla](https://asingla.netlify.app/).
+ ## You can see a live preview of the Website on - [https://asingla.netlify.app/](https://asingla.netlify.app/).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
