@@ -70,7 +70,7 @@ function Project()
                         </h3>
 
                         <center><button className="btn btn_effect ms-4 p-2 my-1 project_links"  style={{"float":"left"}}>
-                            <a href='#' target="_blank">
+                            <a href='https://github.com/singlaanirudha/MERN_STACK_E-COMMERCE_WEBSITE/blob/main/README.md' target="_blank">
                                 Live Preview  <i class="fa-solid fa-arrow-right-long ms-1"></i>
                             </a>
                         </button></center>
