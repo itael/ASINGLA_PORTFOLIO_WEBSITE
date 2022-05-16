@@ -25,7 +25,7 @@ export default function Navbar()
 
     return(
         <>
-            <div className="row" id="page_top">
+            <div className="row" id="page_top" style={{"overflowX":"hidden"}}>
                 <div className="col-md-10 offset-md-1 mt-3 navbar_bg">
                     <nav className="navbar navbar-expand-lg w-100">
                     <div className="container-fluid">

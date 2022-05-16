@@ -21,7 +21,7 @@ function Project()
 
     return(
         <>
-            <div className="container-fluid project_container">
+            <div className="container-fluid project_container" style={{"overflowX":"hidden"}}>
 
                 {/* project heading */}
                 <div className="row project_hding ">

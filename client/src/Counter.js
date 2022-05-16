@@ -6,7 +6,7 @@ function Counter()
 {
     return(
         <>
-            <div className="container-fluid py-3 counter_container">
+            <div className="container-fluid py-3 counter_container" style={{"overflowX":"hidden"}}>
 
                 <div className="row">
 

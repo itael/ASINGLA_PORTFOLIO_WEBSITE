@@ -7,7 +7,7 @@ function Footer()
 {
     return(
         <>
-            <div className="container-fluid footer_bg">
+            <div className="container-fluid footer_bg" style={{"overflowX":"hidden"}}>
                 
                 <div className="row pt-4 mb-4">
                     <div className="col-md-2 mx-auto justify-content-center text-center">
@@ -39,7 +39,7 @@ function Footer()
                 </div>
             </div>
 
-            <div className="contaier-fluid footer2_bg py-1">
+            <div className="contaier-fluid footer2_bg py-1" style={{"overflowX":"hidden"}}>
                 <div className="row text-center"><h6 style={{"color": "#7b7f92"}}> Designed & Developed by Anirudha Singla <i className="fa-regular fa-hand-peace"></i>. </h6></div>
             </div>
 

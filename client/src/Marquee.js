@@ -19,7 +19,7 @@ function Marquee()
 {
     return(
         <>
-            <div className="container-fluid overflow-x-hidden">
+            <div className="container-fluid" style={{"overflowX":"hidden"}}>
                 <div className="row mq_cont py-4">
                     
                     <div className="col-md-10 mx-auto marquee_bg">

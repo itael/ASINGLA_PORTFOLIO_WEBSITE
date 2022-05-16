@@ -6,7 +6,7 @@ function Openingpage()
 {
     return(
         <>
-            <div className="container-fluid opening_page mt-2 pb-0">
+            <div className="container-fluid opening_page mt-2 pb-0" style={{"overflowX":"hidden"}}>
 
                 <Navbar></Navbar>
                 

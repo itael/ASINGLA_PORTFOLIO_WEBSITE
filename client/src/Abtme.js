@@ -13,7 +13,7 @@ function Abtme()
   return (
       <>
 
-    <div className="container-fluid abtme_bg overflow-x-hidden pb-5">
+    <div className="container-fluid abtme_bg pb-5" style={{"overflowX":"hidden"}}>
 
 {/* ------------------------ heading start -------------------- */}
         <div class="row">

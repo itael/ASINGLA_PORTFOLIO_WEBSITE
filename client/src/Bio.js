@@ -9,7 +9,7 @@ function Bio()
     return(
         <>
         
-            <div className="container-fluid p-0 bio_text_cont">
+            <div className="container-fluid p-0 bio_text_cont" style={{"overflowX":"hidden"}}>
 
                 <div className="row cutout_box">
                     <h1 className="cutout_text" id="bio">MY BIO</h1>
