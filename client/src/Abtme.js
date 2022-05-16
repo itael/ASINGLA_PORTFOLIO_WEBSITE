@@ -146,8 +146,12 @@ function Abtme()
                                             <h6 className='ms-5 mt-2'> Skilled in organising other people to reach a shared goal and keep the team motivated to reach the desired goal. Can organise and communicate clearly to support a team or project. </h6>
                                         </li>
 
-                                        <li>Quick Learner & Effective Problem Solver
+                                        <li>Quick & Visual Learner
                                             <h6 className='ms-5 mt-2'>I am a very strong visual learner and am determined to solve problems and quickly find an effective solution.</h6>
+                                        </li>
+
+                                        <li> Effective Problem Solver
+                                            <h6 className='ms-5 mt-2'> I have the capability to solve problems and determining the cause of the problem. Identifying, prioritizing, and selecting alternatives for a solution; and implementing a solution.</h6>
                                         </li>
                                     </ul>
                                 </h4>
@@ -169,7 +173,7 @@ function Abtme()
                                             <i className="fa-solid fa-building-columns my-3" style={{"color":"#CBB26A", "fontSize":50}}></i>	
                                             <h5>2018</h5>
                                             <h3>Class - 12 </h3>
-                                            <h6>Percentage - 89%</h6>
+                                            <h6>Percentage - 90%</h6>
                                             <h5>DELHI PUBLIC SCHOOL, NEW DELHI</h5>
                                             
                                             <h6 className='text-start text-white'>
@@ -231,7 +235,7 @@ function Abtme()
                                                 <li> Gained experience on working in a real life tech environment and working along side seasoned and experienced developers and professionals. </li>
                                                 <li> Worked in Team along with other developers as well as in individual capacity on projects. </li>
                                                 <li> Received extremely positive feedback and review from all the mentor. </li>
-                                                <li> Designed a fully functional dynamic e-commerce webapp and 3 more major projects from scratch as a part of training. </li>
+                                                <li> Designed a fully functional dynamic e-commerce webapp and 3 more major projects along with multiple minor projects from scratch as a part of training. </li>
                                             </ul>
                                         </h5>
 

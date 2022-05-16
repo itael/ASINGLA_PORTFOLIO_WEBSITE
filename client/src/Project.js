@@ -76,7 +76,7 @@ function Project()
                         </button></center>
 
                         <center><button className="btn btn_effect me-4 p-2 my-1 project_links"  style={{"float":"right"}}>
-                            <a href='#' target="_blank">
+                            <a href='https://github.com/singlaanirudha/MERN_STACK_E-COMMERCE_WEBSITE' target="_blank">
                                Source Code <i className="fa-solid fa-arrow-right-long ms-1"></i>
                             </a>   
                          </button></center>
@@ -129,7 +129,7 @@ function Project()
                         </button></center>
                         
                         <center><button className="btn btn_effect me-4 p-2 my-1 project_links"  style={{"float":"right"}}>
-                            <a href='https://github.com/singlaanirudha/A_SINGLA_Portfolio' target="_blank">
+                            <a href='https://github.com/singlaanirudha/ASINGLA_PORTFOLIO_WEBSITE' target="_blank">
                                 Source Code <i className="fa-solid fa-arrow-right-long ms-1"></i>
                             </a>     
                         </button></center>
@@ -171,12 +171,12 @@ function Project()
                         </h3>
 
                              <center><button className="btn btn_effect ms-4 my-1 p-2 project_links" style={{"float":"left"}}> 
-                                <a href="https://singlaanirudha.github.io/travel_bug.github.io/" target="_blank"> Live Preview <i class="fa-solid fa-arrow-right-long ms-1"></i>
+                                <a href="https://travel-bug-blog.netlify.app/" target="_blank"> Live Preview <i class="fa-solid fa-arrow-right-long ms-1"></i>
                                 </a> 
                             </button></center>
 
                             <center><button className="btn btn_effect my-1 me-4 p-2 project_links" style={{"float":"right"}}> 
-                                <a href="https://github.com/singlaanirudha/travel_bug.github.io" target="_blank"> Source Code  <i className="fa-solid fa-arrow-right-long ms-1"></i> 
+                                <a href="https://github.com/singlaanirudha/STATIC-TRAVEL-BLOG--TRAVEL-BUG-" target="_blank"> Source Code  <i className="fa-solid fa-arrow-right-long ms-1"></i> 
                                 </a> 
                             </button></center>
 

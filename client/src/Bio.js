@@ -37,7 +37,7 @@ function Bio()
 
                         In a quest for always keeping <b>myself updated</b>, I read books and attend seminars & meetups.
 
-                    <h4 className="tag_name mb-3"> bio </h4>
+                    <h4 className="tag_name mb-3"> /bio </h4>
 
                     <button type="button" className="cv_button w-75 mt-4" 
                     title="SHOW CV">

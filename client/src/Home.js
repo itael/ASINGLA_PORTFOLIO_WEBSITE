@@ -1,3 +1,5 @@
+import swal from "sweetalert"; //for alert box
+
 import './css/common_css.css'
 import './css/button.css'
 
@@ -18,6 +20,14 @@ import Float_contact from './Floating_contact';
 
 function App()
 {
+
+    window.onload = function(){
+        swal({
+            title: "HELLO !!",
+            text: "This website has been Designed & Developed independently by ANIRUDHA SINGLA himself. \n \n  THANK YOU!! (^‿^)",
+            icon: "success",})
+    }
+
     return(
         <>
             <Openingpage />
@@ -35,6 +45,8 @@ function App()
             <Totop />
             <Float_contact />
             <Contactme />
+
+
         </>
     )
 }
