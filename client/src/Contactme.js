@@ -60,11 +60,11 @@ function Contactme()
 
   return (
     <>
-      <div className="modal fade " id="contactModal">
+      <div className="modal fade" id="contactModal">
         <div className="modal-dialog modal-dialog-centered modal-xl">
           <div className="modal-content">
             <div className="modal-body p-0">
-              <div className="container-fluid overflow-hidden p-0 ">
+              <div className="container-fluid overflow-hidden p-0">
                 <div className="row p-0 ">
                   <div className="col-md-12 mdl2 px-5 pt-4 ">
                     <h2 className="position-absolute end-0 me-4">

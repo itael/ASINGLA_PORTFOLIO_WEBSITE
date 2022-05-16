@@ -6,7 +6,6 @@ import './css/floating_contact.css'
 import './js/floating_contact_anim.js'
 
 import float_cont_img from './imgs/floating_contact.png'
-// import { NavLink } from 'react-router-dom';
 
 
 function Float_contact()
