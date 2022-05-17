@@ -168,7 +168,25 @@ function Abtme()
                     <div className="container-fluid abt_anim">
                         <div className="row text-center justify-content-center">
 
-                            <div className="col-lg-4 text-start abt_cont edu_cont p-3 mt-2 me-2">   
+                            <div className="col-lg-4 text-start abt_cont edu_cont p-3 mt-2 me-2">
+                                            
+                                            <i className="fa-solid fa-user-graduate mt-2 mb-3" style={{"color":"#CBB26A", "fontSize":50}}></i>
+                                            <h5>2018-2022</h5>
+                                            <h5>UNDER-GRADUATION (B.Tech)</h5>
+                                            <h4 className='text-white'>Instrumentation And Control Engineering (ICE)</h4>
+                                            <h6>GPA - 7.5</h6>
+                                            <h5>GGS INDRAPRASTHA UNIVERSITY, NEW DELHI</h5>
+
+                                            <h5 className='text-start text-light mt-2'>
+                                                <ul style={{"lineHeight":1.5}}>
+                                                    <li>Graduated in Instrumentation and control engineering.</li>
+                                                    <li>Studied concepts of DS and other coding languages extensively as a part of curriculum. </li>
+                                                    <li>Part of multiple technical and non-technical society and hosted and lead multiple events for the same showcasing exemplary leadership and team skills. </li>
+                                                </ul>
+                                            </h5>
+                            </div>
+
+                            <div className="col-lg-4 text-start abt_cont edu_cont p-3 mt-2 ms-2">   
 
                                             <i className="fa-solid fa-building-columns my-3" style={{"color":"#CBB26A", "fontSize":50}}></i>	
                                             <h5>2018</h5>
@@ -191,23 +209,7 @@ function Abtme()
 
                             </div>
 
-                            <div className="col-lg-4 text-start abt_cont edu_cont p-3 mt-2 ms-2">
-                                            
-                                            <i className="fa-solid fa-user-graduate mt-2 mb-3" style={{"color":"#CBB26A", "fontSize":50}}></i>
-                                            <h5>2018-2022</h5>
-                                            <h5>UNDER-GRADUATION (B.Tech)</h5>
-                                            <h4 className='text-white'>Instrumentation And Control Engineering (ICE)</h4>
-                                            <h6>GPA - 7.5</h6>
-                                            <h5>GGS INDRAPRASTHA UNIVERSITY, NEW DELHI</h5>
 
-                                            <h5 className='text-start text-light mt-2'>
-                                                <ul style={{"lineHeight":1.5}}>
-                                                    <li>Graduated in Instrumentation and control engineering.</li>
-                                                    <li>Studied concepts of DS and other coding languages extensively as a part of curriculum. </li>
-                                                    <li>Part of multiple technical and non-technical society and hosted and lead multiple events for the same showcasing exemplary leadership and team skills. </li>
-                                                </ul>
-                                            </h5>
-                            </div>
 
                         </div>
                     </div>

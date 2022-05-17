@@ -23,8 +23,8 @@ function App()
 
     window.onload = function(){
         swal({
-            title: "HELLO !!",
-            text: "This website has been Designed & Developed independently by ANIRUDHA SINGLA himself. \n \n  THANK YOU!! (^‿^)",
+            title: "HELLO !! (^‿^)✌",
+            text: "This website has been Designed & Developed independently by ANIRUDHA SINGLA. \n \n  THANK YOU!! (^‿^)",
             icon: "success",})
     }
 

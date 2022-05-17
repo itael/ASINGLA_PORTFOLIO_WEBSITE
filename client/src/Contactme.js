@@ -150,46 +150,41 @@ function Contactme()
                         href="https://www.linkedin.com/in/anirudhasingla/"
                         target="_blank"
                       >
-                        {" "}
                         <i
                           title="Linkedin"
                           className="fa-brands fa-linkedin-in mdl_1_icon form_ip_anim3"
-                        ></i>{" "}
+                        ></i>
                       </a>
 
                       <a
                         href="https://github.com/singlaanirudha"
                         target="_blank"
                       >
-                        {" "}
                         <i
                           title="GitHub"
                           className="fa-brands fa-github mdl_1_icon form_ip_anim3"
-                        ></i>{" "}
+                        ></i>
                       </a>
 
                       <a href="https://wa.me/919911598285" target="_blank">
-                        {" "}
                         <i
                           title="What's App"
                           className="fa-brands fa-whatsapp mdl_1_icon form_ip_anim3"
-                        ></i>{" "}
+                        ></i>
                       </a>
 
                       <a href="mailto: singlaanirudha@gmail.com">
-                        {" "}
                         <i
                           title="G-Mail"
                           className="fa fa-envelope mdl_1_icon form_ip_anim3"
-                        ></i>{" "}
+                        ></i>
                       </a>
 
                       <a href="tel: 9911598285" target="_blank">
-                        {" "}
                         <i
                           title="Phone"
                           className="fa fa-phone mdl_1_icon form_ip_anim3"
-                        ></i>{" "}
+                        ></i>
                       </a>
                     </center>
 

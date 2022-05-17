@@ -17,6 +17,17 @@
 	color: white;
 }
 
+@media only screen and (max-width: 600px)
+{
+	.mdl_1_icon
+	{
+		font-size: 35px !important;
+		margin-top: 15px !important;
+		margin-left: 8px !important;
+		margin-right: 8px !important;
+	}
+}
+
 .mdl_1_icon:hover
 {
 	color: #CBB26A;
