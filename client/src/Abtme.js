@@ -191,7 +191,7 @@ function Abtme()
                                             <i className="fa-solid fa-building-columns my-3" style={{"color":"#CBB26A", "fontSize":50}}></i>	
                                             <h5>2018</h5>
                                             <h3>Class - 12 </h3>
-                                            <h6>Percentage - 90%</h6>
+                                            <h6>Percentage - 89%</h6>
                                             <h5>DELHI PUBLIC SCHOOL, NEW DELHI</h5>
                                             
                                             <h6 className='text-start text-white'>
