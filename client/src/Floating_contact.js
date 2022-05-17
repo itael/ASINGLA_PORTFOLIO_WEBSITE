@@ -14,7 +14,7 @@ function Float_contact()
     function contact_alert2() {
         swal({
             title: "ATTENTION !!",
-            text: "Thank you for showing interest !! (^‿^) \n \n I will not be able to get your message from the following contact form because of limitations of open source free domain hoisting and it's limitation to host a dynamic website. However you can contact me using any of the attached social link, mail or contact number. You can access the source code of this very dynamic website on my GitHub account. \n \n THANK YOU!! (❛‿❛)",
+            text: "Thank you for showing interest !! (^‿^) \n \n I will not be able to get your message from the following contact form because of limitations of open source free domain hoisting and it's limitation to host a dynamic website. However you can contact me using any of the attached social link, mail or contact number. You can access the source code of the dynamic components of this very website on my GitHub account. \n \n THANK YOU!! (❛‿❛)",
             icon: "warning",})
     }
 
