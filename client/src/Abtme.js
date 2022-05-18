@@ -225,7 +225,7 @@ function Abtme()
                         <div className="col-md-7 mx-auto abt_cont edu_cont">
                                         
                                         <i className="fa-solid fa-laptop-code my-3" style={{"color":"#CBB26A", "fontSize":50}}></i>
-                                        <h5>May 2021 - May 2022 (12 mo)</h5>
+                                        <h5>June 2021 - May 2022 (12 mo)</h5>
                                         <h5>INDUSTRIAL TRAINING (Apprenticeship)</h5>
                                         <h3 className="my-2">FULL STACK DEVELOPMENT</h3>
                                         <h5>VSIT , NEW DELHI</h5>
